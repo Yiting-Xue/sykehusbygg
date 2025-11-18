@@ -1,0 +1,38 @@
+RFP (hva er det)
+Dette er en beskrivelse av noen av funksjonene i et rom
+Kode: SR.001.00
+Navn: Aktivitetsrom, PHV/TSB
+Standard areal: 20.0
+
+Beskrivelse: Psykisk helsevern/TSB, men kan også ligge til andre funksjonsområder.\nAreal og utstyr tilpasses funksjon
+
+Under følger detaljer for Beskrivelse:
+
+Beskrivelse av aktiviteter og funksjoner, Aktivitetsrom for pasienter. Mangeartete aktiviteter som musikk, formingsaktiviteter, hobbyer osv. samt utredning av funksjonsnivå for pasienter.
+...
+
+
+---
+
+RFP (hva er det)
+Dette er en beskrivelse av noen av funksjonene i et rom
+
+Kode: SR.001.00
+Navn: Aktivitetsrom, PHV/TSB
+Standard areal: 20.0
+
+Under føler detaljer for Utforming/bygg:
+
+Vegger - Veggmontert utstyr: Ja
+Vegger - Veggmontert utstyr - (Tekst)": "Se utstyrsliste. Ekstra forsterkning av vegg for oppheng av sikkerhetskabinett TV.",
+
+Blabla: ikke relevant for dette rommet
+
+...
+    
+
+
+
+Generelt:
+- Fjern alle "
+- Lag tekst som er mer menneskeforståelig enn maskin

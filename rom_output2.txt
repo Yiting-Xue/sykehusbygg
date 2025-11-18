@@ -1,0 +1,198 @@
+Rfp (hva er det)
+Dette er en beskrivelse av noen av funksjonene i et rom
+Kode: SR.001.00
+Navn: Aktivitetsrom, PHV/TSB
+Standard areal: 20.0
+
+Beskrivelse: Psykisk helsevern/TSB, men kan også ligge til andre funksjonsområder.
+Areal og utstyr tilpasses funksjon.
+
+Under følger detaljer for Beskrivelse:
+Beskrivelse av aktiviteter og funksjoner: Aktivitetsrom for pasienter. Mangeartete aktiviteter som musikk, formingsaktiviteter, hobbyer osv. samt utredning av funksjonsnivå for pasienter.
+Personbelastning - Personer, normalt: 4
+Personbelastning - Personer, maksimalt - Antall personer: 6
+Personbelastning - Brukstid, maksimalt: 16
+Personbelastning - Varig arbeidsplass - (Ja/Nei): Nei
+Nærhet/sambruk - Dør til andre rom - (Ja/Nei): Nei
+Nærhet/sambruk - Dør til andre rom - (Tekst): ikke relevant for dette rommet
+Nærhet/sambruk - Nærhet/avstand til andre funksjoner: ikke relevant for dette rommet
+
+============================================================
+Rfp (hva er det)
+Dette er en beskrivelse av noen av funksjonene i et rom
+Kode: SR.001.00
+Navn: Aktivitetsrom, PHV/TSB
+Standard areal: 20.0
+
+Beskrivelse: Psykisk helsevern/TSB, men kan også ligge til andre funksjonsområder.
+Areal og utstyr tilpasses funksjon.
+
+Under følger detaljer for Utforming/bygg:
+Vegger - Veggmontert utstyr - (Ja/Nei): Ja
+Vegger - Veggmontert utstyr - (Tekst): Se utstyrsliste. Ekstra forsterkning av vegg for oppheng av sikkerhetskabinett TV.
+Vegger - Gjennomstikk/luke til andre rom - (Ja/Nei): Nei
+Vegger - Gjennomstikk/luke til andre rom - (Tekst): ikke relevant for dette rommet
+Vegger - Glassfelt i vegg til andre rom - (Ja/Nei): Ja
+Vegger - Glassfelt i vegg til andre rom - (Tekst): Korridor
+Vegger - Skjerming mot innsyn - (Ja/Nei): Ja
+Vegger - Skjerming mot innsyn - (Tekst): ikke relevant for dette rommet
+Vegger - Fendring - (Ja/Nei): Nei
+Vegger - Fendring - (Tekst): ikke relevant for dette rommet
+Tak/himling - Himlingshøyde større enn 270 cm - (Ja/Nei): Nei
+Tak/himling - Himlingshøyde større enn 270 cm - (Tekst): ikke relevant for dette rommet
+Tak/himling - Takmontert utstyr - (Ja/Nei): Nei
+Tak/himling - Takmontert utstyr - (Tekst): ikke relevant for dette rommet
+Gulv/dekke - Vekt av utstyr - (Ja/Nei): Nei
+Gulv/dekke - Vekt av utstyr - kg: 0
+Gulv/dekke - Vekt av utstyr - (Tekst): ikke relevant for dette rommet
+Gulv/dekke - Antistatisk beskyttelse: False
+Gulv/dekke - Utsparing i gulv til utstyr - (Ja/Nei): Nei
+Gulv/dekke - Utsparing i gulv til utstyr - (Tekst): ikke relevant for dette rommet
+Generelt for rommet - Spesielle krav til overflater - (Ja/Nei): Ja
+Generelt for rommet - Spesielle krav til overflater - (Tekst): Robusthet. Overflater og inventar skal tåle anbefalt metode for rengjøring og desinfeksjon.
+Generelt for rommet - Smittevernnivå - (Ja/Nei): Ja
+Generelt for rommet - Smittevernnivå - Smittevernnivå: 2.0
+Generelt for rommet - Smittevernnivå - Se Byggveileder Smittevern: https://kunnskapsbanken.sykehusbygg.no/temasider/smittevern
+Generelt for rommet - Inneslutningsnivå - (Ja/Nei): Nei
+Generelt for rommet - Inneslutningsnivå - Inneslutningsnivå: ikke relevant for dette rommet
+Generelt for rommet - Strålingsskjerming - (Ja/Nei): Nei
+Generelt for rommet - Strålingsskjerming - (Flervalg): ikke relevant for dette rommet
+Generelt for rommet - Strålingsskjerming, spesifiser: ikke relevant for dette rommet
+Generelt for rommet - Spesielle lydkrav - (Ja/Nei): Ja
+Generelt for rommet - Spesielle lydkrav - (Flervalg): ikke relevant for dette rommet
+Generelt for rommet - Spesielle lydkrav, spesifiser: Tilpasses funksjon
+Generelt for rommet - Skjerming mot vibrasjon - (Ja/Nei): Nei
+Generelt for rommet - Skjerming mot vibrasjon - (Flervalg): ikke relevant for dette rommet
+Generelt for rommet - Skjerming mot vibrasjon, spesifiser: ikke relevant for dette rommet
+Generelt for rommet - Inntransport av nyttelast/utstyr - (Ja/Nei): Nei
+Generelt for rommet - Inntransport av nyttelast/utstyr - (Tekst): ikke relevant for dette rommet
+Generelt for rommet - Spesiell belastning gulv/tak/vegg - (Ja/Nei): Nei
+Generelt for rommet - Spesiell belastning gulv/tak/vegg - (Tekst): ikke relevant for dette rommet
+Kommentar: ikke relevant for dette rommet
+
+============================================================
+Rfp (hva er det)
+Dette er en beskrivelse av noen av funksjonene i et rom
+Kode: SR.001.00
+Navn: Aktivitetsrom, PHV/TSB
+Standard areal: 20.0
+
+Beskrivelse: Psykisk helsevern/TSB, men kan også ligge til andre funksjonsområder.
+Areal og utstyr tilpasses funksjon.
+
+Under følger detaljer for Vinduer og Dører:
+Dører - Spesielle krav til døråpning - (Ja/Nei): Nei
+Dører - Spesielle krav til døråpning - (Flervalg): ikke relevant for dette rommet
+Dører - Glass i dør - (Ja/Nei): Nei
+Dører - Glass i dør - (Tekst): ikke relevant for dette rommet
+Dører - Skyvedør - (Ja/Nei): Nei
+Dører - Skyvedør - (Tekst): ikke relevant for dette rommet
+Dører - Adgangskontroll - (Ja/Nei): Ja
+Dører - Adgangskontroll - (Flervalg): ikke relevant for dette rommet
+Dører - Automatisk døråpner - (Ja/Nei): Nei
+Dører - Automatisk døråpner - (Tekst): ikke relevant for dette rommet
+Dører - Skal døren kunne stå åpen - (Ja/Nei): Nei
+Dører - Skal døren kunne stå åpen - (Flervalg): ikke relevant for dette rommet
+Dører - Forrigling - (Ja/Nei): Nei
+Dører - Forrigling - (Tekst): ikke relevant for dette rommet
+Vinduer - Dagslys - (Ja/Nei): Ja
+Vinduer - Dagslys - (Flervalg): ikke relevant for dette rommet
+Vinduer - Mulighet for å kunne åpne/lukke - (Ja/Nei): Nei
+Vinduer - Mulighet for å kunne åpne/lukke - (Flervalg): ikke relevant for dette rommet
+Vinduer - Blending - (Ja/Nei): Nei
+Vinduer - Blending - (Flervalg): ikke relevant for dette rommet
+Kommentar: ikke relevant for dette rommet
+
+============================================================
+Rfp (hva er det)
+Dette er en beskrivelse av noen av funksjonene i et rom
+Kode: SR.001.00
+Navn: Aktivitetsrom, PHV/TSB
+Standard areal: 20.0
+
+Beskrivelse: Psykisk helsevern/TSB, men kan også ligge til andre funksjonsområder.
+Areal og utstyr tilpasses funksjon.
+
+Under følger detaljer for Elkraft:
+Strømforsyning - Normalkraft: True
+Strømforsyning - 1-fase stikk, 230V - 16A: 8
+Strømforsyning - 1-fase stikk, 230V - 25A: 0
+Strømforsyning - 3-fase stikk, 400V - 16A: 0
+Strømforsyning - 3-fase stikk, 400V - 32A: 0
+Strømforsyning - 3-fase stikk, 400V - 63A: 0
+Strømforsyning - 3-fase fast, 400V - 16A: 0
+Strømforsyning - 3-fase fast, 400V - 32A: 0
+Strømforsyning - 3-fase fast, 400V - 63A: 0
+Strømforsyning - 3-fase fast, 400V - 125A: 0
+Strømforsyning - 3-fase fast, 400V - 160A: 0
+Strømforsyning - 3-fase fast, 400V - 250A: 0
+Strømforsyning - Reservekraft - (Ja/Nei): Nei
+Strømforsyning - Reservekraft - (Tekst): ikke relevant for dette rommet
+Strømforsyning - 1-fase stikk, 230V 2 - 16A: 0
+Strømforsyning - 1-fase stikk, 230V 2 - 25A: 0
+Strømforsyning - 3-fase stikk, 400V 2 - 16A: 0
+Strømforsyning - 3-fase stikk, 400V 2 - 32A: 0
+Strømforsyning - 3-fase stikk, 400V 2 - 63A: 0
+Strømforsyning - 3-fase fast, 400V 2 - 16A: 0
+Strømforsyning - 3-fase fast, 400V 2 - 32A: 0
+Strømforsyning - 3-fase fast, 400V 2 - 63A: 0
+Strømforsyning - 3-fase fast, 400V 2 - 125A: 0
+Strømforsyning - 3-fase fast, 400V 2 - 160A: 0
+Strømforsyning - 3-fase fast, 400V 2 - 250A: 0
+Strømforsyning - Avbruddsfri kraft - (Ja/Nei): Nei
+Strømforsyning - Avbruddsfri kraft - (Tekst): ikke relevant for dette rommet
+Strømforsyning - 1-fase stikk, 230V 3 - 16A: 0
+Strømforsyning - 1-fase stikk, 230V 3 - 25A: 0
+Strømforsyning - 3-fase stikk, 400V 3 - 16A: 0
+Strømforsyning - 3-fase stikk, 400V 3 - 32A: 0
+Strømforsyning - 3-fase stikk, 400V 3 - 63A: 0
+Strømforsyning - 3-fase fast, 400V 3 - 16A: 0
+Strømforsyning - 3-fase fast, 400V 3 - 32A: 0
+Strømforsyning - 3-fase fast, 400V 3 - 63A: 0
+Strømforsyning - 3-fase fast, 400V 3 - 125A: 0
+Strømforsyning - 3-fase fast, 400V 3 - 160A: 0
+Strømforsyning - 3-fase fast, 400V 3 - 250A: 0
+Strømforsyning - Annen forsyning - (Ja/Nei): Nei
+Strømforsyning - Annen forsyning - (Tekst): ikke relevant for dette rommet
+Belysning - Krav til styring av lys - (Ja/Nei): Ja
+Belysning - Krav til styring av lys - (Flervalg): Manuelt
+Belysning - Nattlys - (Ja/Nei): Nei
+Belysning - Nattlys - (Tekst): ikke relevant for dette rommet
+Belysning - Styring av innvendig blending - (Ja/Nei): Nei
+Belysning - Styring av innvendig blending - (Tekst): ikke relevant for dette rommet
+Belysning - Overstyring av utvendig solavskjerming - (Ja/Nei): Nei
+Belysning - Overstyring av utvendig solavskjerming - (Tekst): ikke relevant for dette rommet
+Sikkerhet - Medisinsk område - (Ja/Nei): Nei
+Sikkerhet - Medisinsk område - (Flervalg): ikke relevant for dette rommet
+Sikkerhet - Ledende gulv - ESD - (Ja/Nei): Nei
+Sikkerhet - Ledende gulv - ESD - (Tekst): ikke relevant for dette rommet
+Kommentar: ikke relevant for dette rommet
+
+============================================================
+Rfp (hva er det)
+Dette er en beskrivelse av noen av funksjonene i et rom
+Kode: SR.001.00
+Navn: Aktivitetsrom, PHV/TSB
+Standard areal: 20.0
+
+Beskrivelse: Psykisk helsevern/TSB, men kan også ligge til andre funksjonsområder.
+Areal og utstyr tilpasses funksjon.
+
+Under følger detaljer for IKT:
+Datanettverk - IKT uttak (telefon, data, TV, MTU etc.) - (Numerisk): 2
+Datanettverk - IKT uttak (telefon, data, TV, MTU etc.) - (Tekst): ikke relevant for dette rommet
+Kommunikasjon og overvåking - Pasientsignalanlegg - (Ja/Nei): Nei
+Kommunikasjon og overvåking - Pasientsignalanlegg - (Numerisk): 0
+Kommunikasjon og overvåking - Pasientsignalanlegg - (Flervalg): ikke relevant for dette rommet
+Kommunikasjon og overvåking - Fast funksjonstelefon - (Ja/Nei): Nei
+Kommunikasjon og overvåking - Fast funksjonstelefon - (Numerisk): 0
+Lyd og bilde - Høyttalende samtaleanlegg mellom rom - (Ja/Nei): Nei
+Lyd og bilde - Høyttalende samtaleanlegg mellom rom - (Tekst): ikke relevant for dette rommet
+Lyd og bilde - Assistert lytting/hjelp for hørselshemmede - (Ja/Nei): Nei
+Lyd og bilde - Assistert lytting/hjelp for hørselshemmede - (Tekst): ikke relevant for dette rommet
+Lyd og bilde - AV-anlegg - (Ja/Nei): Ja
+Lyd og bilde - AV-anlegg - (Flervalg): Enkelt system
+Lyd og bilde - AV-anlegg - (Tekst): ikke relevant for dette rommet
+Kommentar: ikke relevant for dette rommet
+
+============================================================
